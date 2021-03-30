@@ -1,0 +1,13 @@
+
+H
+java:S1172"-Remove this unused method parameter "status".(ÁÉ„­8 »‡² .
+R
+java:S1444"2Make this "public static PET_ENDPOINT" field final(™Æ¡èûÿÿÿÿ8 »‡² .
+a
+java:S1192"FDefine a constant instead of duplicating this literal "petId" 3 times.(þ‰¦Ñ8 »‡² .
+x
+java:S1104"XMake PET_ENDPOINT a static final constant or non-public and provide accessors if needed.(™Æ¡èûÿÿÿÿ8 »‡² .
+c
+java:S1192"IDefine a constant instead of duplicating this literal "/{petId}" 3 times.(ßî¯28 »‡² .
+w
+java:S3008"WRename this field "PET_ENDPOINT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Æ¡èûÿÿÿÿ8 »‡² .

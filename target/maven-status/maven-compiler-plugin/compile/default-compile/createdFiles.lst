@@ -1,0 +1,9 @@
+org/ska/tests/Constants.class
+org/ska/tests/classes/MessageResponse.class
+org/ska/tests/classes/Pet.class
+org/ska/tests/Authentication.class
+org/ska/tests/classes/Tag.class
+org/ska/tests/classes/StatusEnum.class
+org/ska/tests/Authentication$1.class
+org/ska/tests/actions/pets/PetsActions.class
+org/ska/tests/classes/Category.class

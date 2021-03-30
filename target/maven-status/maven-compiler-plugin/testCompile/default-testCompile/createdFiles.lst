@@ -1,0 +1,4 @@
+org/ska/tests/PetTests.class
+org/ska/tests/PetTestsUsingLittleLibrary.class
+org/ska/tests/PetTestSerializeDeserialize.class
+org/ska/tests/PetClassWithRequestSpec.class
